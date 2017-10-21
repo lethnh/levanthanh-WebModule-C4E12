@@ -1,1 +1,26 @@
+h1{
+  font-family: monospace;
 
+  font-size: 300%;
+  text-align: center;
+  margin: 50px 50px 50px 50px;
+}
+.row{
+  padding-left: 20px;
+}
+.carousel-caption{
+  text-align: left;
+  margin-bottom: 30%;
+  color: white;
+
+
+}
+.carousel-caption button{
+  font-family: cursive;
+  font-size: 145%;
+  margin-top: 30px;
+
+}
+.carousel-caption h3{
+  font-size: 200%;
+}
